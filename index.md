@@ -491,7 +491,7 @@
 
 						</div><!-- /.lqd-column px-0 -->
 
-						<div class="lqd-column col-md-4 px-0 bg-cover bg-center h-pt-25 pb-40 px-4" style="background-image: url(./assets/img/logo/bunn.png);">
+						<div class="lqd-column col-md-4 px-0 bg-cover bg-center h-pt-25 pb-40 px-4" style="background-image: url(./assets/img/logo/Bunn.png);">
 
 							<div class="liquid-column-overlay liquid-column-overlay-hover" style="background:linear-gradient(187deg, #221b0a 1.5%, rgba(34, 27, 10, 0.6) 100%)"></div>
 							<div class="liquid-column-overlay" style="background:linear-gradient(0deg, #221b0a 0%, transparent 70%)"></div>
@@ -675,7 +675,7 @@
 											data-parallax-to='{"translateY":50}'
 											data-parallax-options='{"overflowHidden":false,"easing":"linear"}'>
 												<figure>
-													<img src="./assets/demo/bg/dominus2.jpg" alt="Shape">
+													<img src="./assets/demo/bg/Dominus2.jpg" alt="Shape">
 												</figure>
 											</div><!-- /.liquid-img-container-inner -->
 										</div><!-- /.liquid-img-group-img-container -->
@@ -690,7 +690,7 @@
 											data-parallax-to='{"translateY":-80}'
 											data-parallax-options='{"overflowHidden":false,"easing":"linear"}'>
 												<figure>
-													<img src="./assets/demo/bg/dominus1.jpg" alt="Shape">
+													<img src="./assets/demo/bg/Dominus1.jpg" alt="Shape">
 												</figure>
 											</div><!-- /.liquid-img-container-inner -->
 										</div><!-- /.liquid-img-group-img-container -->
